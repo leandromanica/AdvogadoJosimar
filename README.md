@@ -1,2 +1,0 @@
-# AdvogadoJosimar
-SiteAdv
